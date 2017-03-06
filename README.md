@@ -1,2 +1,2 @@
 # shakeyshakespeare
-A RNN to generate Shakespearian English using Python from scratch.
+A RNN to generate text , code , poetry using Python from scratch.
